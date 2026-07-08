@@ -1,6 +1,6 @@
-# Rent It! - Luxury Car Rental (MVP)
+# Rent It! - Luxury Car Rental
 
-A React-based frontend application for reserving luxury cars. This version has been configured to run entirely offline using Chrome's Browser Local Storage as a mock backend for easy MVP demonstration.
+A React-based frontend application for reserving luxury cars. This version has been configured to run entirely offline using Chrome's Browser Local Storage as a mock backend for easy demonstration.
 
 ## Features
 - **User Authentication**: Register and log in.
